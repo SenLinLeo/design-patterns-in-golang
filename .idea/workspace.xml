@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28e5eaf0-ebd6-4d5e-b8e3-383190b80b08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/structural/Bridage/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/structural/Bridage/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/behavioral/Command/command.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/behavioral/Command/command_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/creational/Factory/factory.go">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creational/Factory/factory_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/behavioral/Command/command.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-594">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#17#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/behavioral/Command/command_test.go">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creational/Factory/notes.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="54">
+                <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -49,12 +93,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/structural/Bridage/notes.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="310">
-                <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+              <first_editor relative-caret-position="513">
+                <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -62,48 +106,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creational/AbstracrFactory/abstract_factory.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/structural/Facade/facade_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creational/Builder/builder.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creational/Builder/builer_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#17#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creational/Builder/notes.md">
+        <entry file="file://$PROJECT_DIR$/structural/Facade/notes.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="108">
                 <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               </first_editor>
@@ -148,12 +153,15 @@
         <option value="$PROJECT_DIR$/structural/Bridage/bridage.go" />
         <option value="$PROJECT_DIR$/structural/Bridage/bridage_test.go" />
         <option value="$PROJECT_DIR$/structural/Bridage/notes.md" />
+        <option value="$PROJECT_DIR$/behavioral/Command/commond.go" />
+        <option value="$PROJECT_DIR$/behavioral/Command/command_test.go" />
+        <option value="$PROJECT_DIR$/behavioral/Command/command.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-27" />
-    <option name="y" value="119" />
+    <option name="x" value="-237" />
+    <option name="y" value="92" />
     <option name="width" value="1380" />
     <option name="height" value="540" />
   </component>
@@ -172,19 +180,13 @@
             <path>
               <item name="design-patterns-in-golang" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns-in-golang" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns-in-golang" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns-in-golang" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
-              <item name="Bridage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns-in-golang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns-in-golang" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
-              <item name="Facade" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestCircle_Draw in design-patterns-in-golang/structural/Bridage">
+  <component name="RunManager" selected="Go Test.TestCommand_Execute in design-patterns-in-golang/behavioral/Command">
     <configuration name="TestCarFacade_CreateCompleteCar in design-patterns-in-golang/structural/Facade" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="design-patterns-in-golang" />
       <working_directory value="$PROJECT_DIR$/structural/Facade" />
@@ -238,6 +240,17 @@
       <pattern value="^TestCircle_Draw$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestCommand_Execute in design-patterns-in-golang/behavioral/Command" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="design-patterns-in-golang" />
+      <working_directory value="$PROJECT_DIR$/behavioral/Command" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="design-patterns-in-golang/behavioral/Command" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCommand_Execute$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestConcretebuilder_GetResult in design-patterns-in-golang/creational/Builder" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="design-patterns-in-golang" />
       <working_directory value="$PROJECT_DIR$/creational/Builder" />
@@ -247,17 +260,6 @@
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <pattern value="^TestConcretebuilder_GetResult$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestNewRestaurant in design-patterns-in-golang/creational/Factory" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="design-patterns-in-golang" />
-      <working_directory value="$PROJECT_DIR$/creational/Factory" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="design-patterns-in-golang/creational/Factory" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestNewRestaurant$" />
       <method v="2" />
     </configuration>
     <configuration name="TestNewSimpleLunxhFactory in design-patterns-in-golang/creational/AbstracrFactory" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -273,35 +275,44 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestCommand_Execute in design-patterns-in-golang/behavioral/Command" />
         <item itemvalue="Go Test.TestCircle_Draw in design-patterns-in-golang/structural/Bridage" />
         <item itemvalue="Go Test.TestConcretebuilder_GetResult in design-patterns-in-golang/creational/Builder" />
         <item itemvalue="Go Test.TestCarFacade_CreateCompleteCar in design-patterns-in-golang/structural/Facade" />
         <item itemvalue="Go Test.TestNewSimpleLunxhFactory in design-patterns-in-golang/creational/AbstracrFactory" />
-        <item itemvalue="Go Test.TestNewRestaurant in design-patterns-in-golang/creational/Factory" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestNewRestaurant_in_design-patterns-in-golang_creational_Factory - 2021.04.18 at 21h 48m 03s.xml">
-      <configuration name="TestNewRestaurant in design-patterns-in-golang/creational/Factory" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestNewSimpleLunxhFactory_in_design-patterns-in-golang_creational_AbstracrFactory - 2021.04.18 at 22h 37m 14s.xml">
-      <configuration name="TestNewSimpleLunxhFactory in design-patterns-in-golang/creational/AbstracrFactory" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestCarFacade_CreateCompleteCar_in_design-patterns-in-golang_structural_Facade - 2021.04.18 at 23h 20m 13s.xml">
-      <configuration name="TestCarFacade_CreateCompleteCar in design-patterns-in-golang/structural/Facade" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestCarFacade_CreateCompleteCar_in_design-patterns-in-golang_structural_Facade - 2021.04.18 at 23h 20m 44s.xml">
-      <configuration name="TestCarFacade_CreateCompleteCar in design-patterns-in-golang/structural/Facade" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestCarFacade_CreateCompleteCar_in_design-patterns-in-golang_structural_Facade - 2021.04.18 at 23h 21m 15s.xml">
-      <configuration name="TestCarFacade_CreateCompleteCar in design-patterns-in-golang/structural/Facade" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="TestConcretebuilder_GetResult_in_design-patterns-in-golang_creational_Builder - 2021.04.19 at 00h 15m 31s.xml">
       <configuration name="TestConcretebuilder_GetResult in design-patterns-in-golang/creational/Builder" configurationId="GoTestRunConfiguration" />
     </history-entry>
     <history-entry file="TestCircle_Draw_in_design-patterns-in-golang_structural_Bridage - 2021.04.20 at 00h 48m 29s.xml">
       <configuration name="TestCircle_Draw in design-patterns-in-golang/structural/Bridage" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCommand_Execute_in_design-patterns-in-golang_behavioral_Command - 2021.04.20 at 23h 11m 45s.xml">
+      <configuration name="TestCommand_Execute in design-patterns-in-golang/behavioral/Command" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCommand_Execute_in_design-patterns-in-golang_behavioral_Command - 2021.04.20 at 23h 16m 12s.xml">
+      <configuration name="TestCommand_Execute in design-patterns-in-golang/behavioral/Command" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCommand_Execute_in_design-patterns-in-golang_behavioral_Command - 2021.04.20 at 23h 19m 22s.xml">
+      <configuration name="TestCommand_Execute in design-patterns-in-golang/behavioral/Command" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCommand_Execute_in_design-patterns-in-golang_behavioral_Command - 2021.04.20 at 23h 23m 36s.xml">
+      <configuration name="TestCommand_Execute in design-patterns-in-golang/behavioral/Command" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCommand_Execute_in_design-patterns-in-golang_behavioral_Command - 2021.04.20 at 23h 24m 17s.xml">
+      <configuration name="TestCommand_Execute in design-patterns-in-golang/behavioral/Command" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCommand_Execute_in_design-patterns-in-golang_behavioral_Command - 2021.04.20 at 23h 29m 21s.xml">
+      <configuration name="TestCommand_Execute in design-patterns-in-golang/behavioral/Command" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCommand_Execute_in_design-patterns-in-golang_behavioral_Command - 2021.04.20 at 23h 30m 03s.xml">
+      <configuration name="TestCommand_Execute in design-patterns-in-golang/behavioral/Command" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCommand_Execute_in_design-patterns-in-golang_behavioral_Command - 2021.04.20 at 23h 30m 19s.xml">
+      <configuration name="TestCommand_Execute in design-patterns-in-golang/behavioral/Command" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -314,11 +325,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32923076" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36153847" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43846154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,23 +344,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/creational/Factory/notes.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creational/Factory/factory_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/creational/AbstracrFactory/abstract_factory_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -360,16 +354,6 @@
     <entry file="file://$PROJECT_DIR$/creational/AbstracrFactory/notes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
-          <first_editor relative-caret-position="108">
-            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structural/Facade/notes.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
           <first_editor relative-caret-position="108">
             <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           </first_editor>
@@ -425,17 +409,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creational/Factory/factory.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structural/Bridage/bridage_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structural/Facade/notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -447,20 +441,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/structural/Bridage/bridage_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/structural/Bridage/notes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="310">
-            <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <first_editor relative-caret-position="513">
+            <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creational/Factory/factory.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creational/Factory/notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creational/Factory/factory_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral/Command/command_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral/Command/command.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#17#45#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
